@@ -1,0 +1,52 @@
+Q1. Report on “Online Piracy and Copyright Infringement: A Case Study of Illegal Downloading and Streaming”
+Introduction:
+Online piracy refers to unauthorized downloading, copying, or streaming of copyrighted digital content.
+
+Case Study:
+
+A website illegally uploads movies/software without permission.
+
+Users download/stream the content for free.
+
+Copyright owners file complaints against the platform.
+
+Legal Issues:
+
+Violates Indian copyright laws and digital content regulations.
+
+May involve cyber law provisions when digital systems are used for unlawful distribution.
+
+Website operators can face penalties, fines, and legal action.
+
+Impact:
+
+Financial loss to creators/companies
+
+Reduced incentive for innovation/content creation
+
+Growth of illegal digital marketplaces
+
+Conclusion:
+Online piracy is a punishable offence that harms creators and businesses.
+
+Q2. Steps organizations can take to protect user privacy when collecting data for analysis
+Obtain clear and informed user consent before data collection.
+
+Collect only necessary/minimum data.
+
+Publish transparent privacy policies.
+
+Encrypt stored and transmitted data.
+
+Restrict access to authorized personnel only.
+
+Anonymize/pseudonymize data used for analysis where possible.
+
+Conduct regular security audits and risk assessments.
+
+Train employees on privacy and data handling practices.
+
+Establish data retention and deletion policies.
+
+Comply with applicable privacy and cyber laws.
+
