@@ -1,0 +1,47 @@
+Q1. Report on “Impact of the Indian IT Act, 2000 in Addressing Cybercrime: A Case Study of a Data Breach Incident”
+Introduction:
+The  provides the legal framework to address cybercrimes and data breaches in India.
+
+Case Study:
+
+A company suffers a data breach due to unauthorized access by hackers.
+
+Sensitive customer information is stolen and leaked online.
+
+The organization reports the incident to cyber authorities.
+
+Role of IT Act, 2000:
+
+Section 43 – Compensation for unauthorized access/data theft.
+
+Section 66 – Punishment for hacking/computer-related offences.
+
+Section 72A – Punishment for unlawful disclosure of personal information.
+
+Section 43A – Company liability for failing to protect sensitive data.
+
+Electronic evidence is admissible in court.
+
+Impact:
+
+Helps investigate and prosecute offenders
+
+Encourages companies to improve cybersecurity
+
+Provides legal remedy for victims
+
+Conclusion:
+The IT Act strengthens cybercrime enforcement and promotes data protection in organizations.
+
+Q2. How did the Indian IT Act, 2000 help in resolving a recent data breach incident in an organization?
+Enabled legal investigation into unauthorized access/data theft under the .
+
+Allowed digital evidence such as logs/emails/server records to be used in investigation.
+
+Applied Section 43A to assess company negligence in protecting data.
+
+Applied Sections 66/72A against responsible offenders for hacking/disclosure.
+
+Helped authorities prosecute offenders and impose penalties.
+
+Encouraged the organization to improve future security controls and compliance.
