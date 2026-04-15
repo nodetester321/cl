@@ -1,0 +1,30 @@
+Q1. What legal provisions under the Indian IT Act can be used to seek compensation for damages caused by cyber defamation?
+The  may apply where cyber defamation involves unauthorized access, misuse of accounts, identity theft, or unlawful publication through digital means.
+
+Section 43 – Compensation for unauthorized access/damage to computer systems where relevant.
+
+Section 66C – Identity theft if fake profiles/accounts are used.
+
+Section 66D – Cheating by personation through digital platforms.
+
+Defamation compensation/damages may also be pursued through civil remedies and criminal defamation laws outside the IT Act.
+
+Electronic evidence such as screenshots, URLs, and chat logs can support claims.
+
+Q2. How can the Indian IT Act, 2000 be used to prosecute someone involved in cyberbullying?
+File a complaint with cyber police/cyber crime portal.
+
+Preserve digital evidence—screenshots, chats, emails, account details.
+
+Use relevant provisions of the  depending on conduct, such as:
+
+Section 66C – Identity theft
+
+Section 66D – Cheating by personation
+
+Section 67 – Publishing/transmitting prohibited obscene material (where applicable)
+
+Authorities can trace offenders using digital evidence/IP logs.
+
+Offenders may face imprisonment, fines, or both upon conviction.
+
