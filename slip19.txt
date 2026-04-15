@@ -1,0 +1,26 @@
+Q1. How can social media platforms be held accountable under the Indian IT Act for hosting defamatory content?
+Platforms may lose intermediary protection if they fail to act after receiving lawful notice of illegal/defamatory content.
+
+They must comply with due diligence obligations under Indian intermediary rules.
+
+Authorities/courts can direct removal or blocking of unlawful content.
+
+Failure to cooperate with lawful investigations may attract penalties.
+
+Victims can seek court orders requiring takedown and disclosure of offender details where legally permitted.
+
+Liability may arise if the platform actively participates in creation/promotion of unlawful content.
+
+Q2. How can online platforms be held liable for cyberbullying incidents under Indian cyber law?
+Platforms must provide reporting/grievance mechanisms for harmful content.
+
+They may be required to remove unlawful cyberbullying content after valid notice/order.
+
+Failure to follow due diligence requirements can affect safe-harbor protections.
+
+Platforms may need to preserve evidence and cooperate with law enforcement.
+
+Repeated negligence in handling abuse complaints can increase legal/regulatory scrutiny.
+
+Victims may seek takedown orders and legal remedies through authorities/courts.
+
