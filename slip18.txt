@@ -1,0 +1,35 @@
+Q1. How can a person legally respond to cyber defamation on social media under Indian cyber law?
+Preserve evidence—screenshots, URLs, messages, and timestamps.
+
+Report the defamatory content to the social media platform for takedown.
+
+File a complaint with cyber police/cyber crime cell.
+
+Seek legal action under the  where applicable and under criminal/civil defamation laws.
+
+Send legal notice to the offender demanding removal/apology.
+
+Request court injunction/orders to remove harmful content.
+
+Claim damages/compensation where permitted by law.
+
+Q2. What steps should the government take immediately after a cyber attack on its infrastructure?
+Isolate affected systems/networks to contain the attack.
+
+Activate incident response and disaster recovery plans.
+
+Inform relevant cybersecurity agencies (e.g., CERT-In / national cyber response teams).
+
+Preserve logs and digital evidence for forensic investigation.
+
+Assess impact and identify compromised systems/data.
+
+Patch vulnerabilities and remove malicious access.
+
+Restore services from secure backups.
+
+Notify affected departments/stakeholders.
+
+Strengthen monitoring to prevent further attacks.
+
+Conduct post-incident review and improve defenses.
