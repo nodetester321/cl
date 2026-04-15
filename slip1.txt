@@ -1,0 +1,54 @@
+Q1. Steps to train bank staff to mitigate social engineering risks
+Regular Security Awareness Training
+Educate employees about phishing, vishing, baiting, and impersonation attacks.
+
+Simulated Attacks (Phishing Drills)
+Conduct mock phishing emails/calls to test employee response and improve awareness.
+
+Strong Verification Procedures
+Train staff to verify identity before sharing any sensitive customer data.
+
+Clear Security Policies
+Implement strict rules for handling confidential information and access control.
+
+Password & Authentication Training
+Promote strong passwords and use of Multi-Factor Authentication (MFA).
+
+Incident Reporting Mechanism
+Encourage employees to report suspicious activities immediately.
+
+Role-Based Access Control (RBAC)
+Limit access to sensitive data based on job roles.
+
+Regular Updates & Workshops
+Keep staff updated about new cyber threats and social engineering techniques.
+
+Email & Communication Awareness
+Teach employees to identify suspicious emails, links, and attachments.
+
+Behavioral Training
+Train staff to stay calm under pressure and avoid urgency-based manipulation.
+
+Q2. Role of IT Act, 2000 in investigation and prosecution
+The  plays a key role in cybercrime cases:
+
+Legal Framework
+Provides legal recognition to electronic transactions and cyber offences.
+
+Defines Cyber Crimes
+Sections like 43, 66, 66C, 66D deal with hacking, identity theft, and online fraud.
+
+Punishment & Penalties
+Specifies fines and imprisonment for cybercriminals.
+
+Investigation Powers
+Allows law enforcement agencies to investigate digital evidence.
+
+Admissibility of Evidence
+Recognizes electronic records as valid evidence in court.
+
+Protection of Data
+Ensures security and confidentiality of customer information.
+
+Support for Prosecution
+Helps in filing cases, prosecuting offenders, and delivering justice.
