@@ -1,0 +1,34 @@
+Q1. Report on “Privacy Violations and Data Protection: A Case Study on Data Mining and User Consent”
+Introduction:
+Privacy violations occur when personal data is collected, processed, or shared without proper user consent.
+
+Case Study:
+
+A mobile app secretly collects users’ contacts, location, and browsing data.
+
+The data is shared with third parties without informed consent.
+
+Users discover the misuse and file complaints.
+
+Legal Issues / Protection:
+
+Action may be taken under the  for unauthorized disclosure/misuse of personal information.
+
+Companies may face liability for failing to protect sensitive data.
+
+Digital evidence such as privacy policies, logs, and screenshots can support investigation.
+
+Conclusion:
+Organizations must obtain informed consent and protect user data to avoid legal liability.
+
+Q2. How does Indian law protect minors who are victims of cyberbullying?
+Cyberbullying against minors can be addressed using the  and other applicable criminal/child-protection laws.
+
+Victims/guardians can file complaints with cyber police or the cyber crime portal.
+
+Authorities can order investigation and identify offenders through digital evidence.
+
+Platforms may be asked to remove abusive content/accounts.
+
+Schools/guardians may also intervene to protect the minor and document incidents.
+
