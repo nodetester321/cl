@@ -1,0 +1,39 @@
+Q1. How can a student protect themselves legally when using educational apps/websites that collect personal information (Indian Cyber Law)?
+Read privacy policies before sharing personal information.
+
+Use only trusted/verified educational platforms.
+
+Share minimum necessary personal data.
+
+Avoid uploading sensitive documents unless required.
+
+Use strong passwords and enable MFA where possible.
+
+Do not share login credentials with others.
+
+Report misuse of personal data to platform/institution immediately.
+
+Keep records/screenshots of suspicious activity for evidence.
+
+Know rights under the  regarding data privacy and misuse.
+
+Q2. How would you create a policy for password management and data protection?
+Require strong passwords with minimum length/complexity.
+
+Mandate periodic password changes if policy requires.
+
+Enforce Multi-Factor Authentication (MFA).
+
+Prohibit password sharing among employees.
+
+Require secure password storage/password managers.
+
+Define access control based on employee roles.
+
+Mandate encryption for sensitive data.
+
+Establish backup and recovery procedures.
+
+Provide employee training on password/data security.
+
+Conduct regular audits for compliance.
