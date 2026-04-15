@@ -1,6 +1,0 @@
-The Information Technology Act,
-2000 addresses a company’s data breach 
-by providing legal provisions for punishment 
-and compensation. Under Section 43, unauthorized access or data theft leads to financial compensation. Section 66 makes such acts criminal offences like hacking. If a company fails to protect sensitive data, it is held liable under Section 43A for negligence. Section 72 punishes breach of confidentiality and privacy.
-
-the Act ensures legal action against offenders, compensation to victims, and forces companies to adopt better security practices.
