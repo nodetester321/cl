@@ -1,0 +1,39 @@
+Q1. Report on “Cyberbullying and Legal Action in India: A Case Study of Legal Remedies for Victims”
+Introduction:
+Cyberbullying means harassment, threats, humiliation, or abuse through digital platforms. Indian cyber laws provide remedies to victims.
+
+Case Study:
+
+A student is harassed repeatedly through fake social media accounts and abusive messages.
+
+Personal photos are posted online without consent.
+
+The victim collects evidence and files a complaint with cyber police.
+
+Legal Remedies:
+
+Complaint can be filed under the  and applicable criminal laws for harassment/defamation.
+
+Platforms can be requested to remove abusive content/accounts.
+
+Electronic evidence like screenshots/chats can be used in investigation.
+
+Courts/police may take action against offenders.
+
+Conclusion:
+Indian law provides victims with legal remedies to report abuse, remove harmful content, and seek punishment of offenders. 
+
+Q2. What legal actions can a user take if their data is mined without consent under Indian privacy laws?
+Preserve proof of misuse (screenshots, emails, privacy policy, messages).
+
+File complaint with cyber police / cyber crime portal.
+
+Report the organization/platform responsible for unauthorized data collection.
+
+Seek action under relevant provisions of the  such as:
+
+Section 43/66 for unauthorized access/extraction of data
+
+Section 72 / 72A for breach of confidentiality or unlawful disclosure
+
+Seek compensation if negligence caused harm, including under Section 43A where applicable.
